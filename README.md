@@ -35,6 +35,8 @@ Country = "🇮🇳"
 <br />
 <br />
 
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 ## Github Trophy🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=DarshGupta1910&theme=onedark)](https://github.com/DarshGupta1910)
 
