@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarshGupta1910&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
-<h1>Hi there 👋</h1>
+<h1>Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Darsh Gupta. </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&center=true&vCenter=true&lines=Passionate+Developer+from+India)](https://git.io/typing-svg)
 <h3>
@@ -12,7 +12,7 @@
 - 🤔 I'm looking for help with Google Firebase <br>
 - 💬 Ask me about Stock Markets 📈 <br>
   - 📫 Reach me on LinkedIn: <a href = "https://www.linkedin.com/in/darsh-gupta-1910/">Darsh Gupta</a><br>
-- 📧 Email me : [Here](mailto:darsh.gupta2020@vitstudent.ac.in) <br>
+  - 📧 Email me : <a href = "mailto:darsh.gupta2020@vitstudent.ac.in">Here</a> <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: I'm a tea ☕, chess ♔  and music 🎶 lover 💖<br>
 </h3>
