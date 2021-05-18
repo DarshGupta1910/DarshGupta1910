@@ -15,7 +15,7 @@
 </h3>
 <br>
 
-# Languages and tools I'm familiar with
+# Languages and tools I'm familiar with ❤️
 
 [<img align="left" alt="Python" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/python.svg" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/VS_Code.png" />](https://code.visualstudio.com/)
@@ -48,7 +48,7 @@
 </div>    
 <br>
 
-# Github Stats
+# Github Stats 
 
 ![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true&theme=onedark)
 
@@ -56,7 +56,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# Jokes 😂
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
+</p>
 
 
 
