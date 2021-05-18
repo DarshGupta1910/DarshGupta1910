@@ -1,5 +1,8 @@
+[![MastHead](https://github.com/DarshGupta1910/DarshGupta1910/blob/main/Darsh%20Gupta.jpg)](https://www.linkedin.com/in/darsh-gupta-1910/)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarshGupta1910&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
+
 <h1>Hi there 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&center=true&vCenter=true&lines=Passionate+Developer+from+India)](https://git.io/typing-svg)
