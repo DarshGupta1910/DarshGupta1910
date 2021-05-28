@@ -18,21 +18,25 @@
 </h3>
 <br>
 
-# Languages and tools I'm familiar with ❤️
+<h1>Tech-Stacks 👨‍💻</h1>
+<span>
+<span align="centeer">
+ <h3>Programming Languages 💻</h3>
+ <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+ <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+</span>
+<span align="ceneter">
+ <h3>Front-End Web-Development 🖥️</h3>
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</span>
+</span>
 
-[<img align="left" alt="Python" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/python.svg" />](https://python.org/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/VS_Code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/github.png" />](https://git-scm.com/)
-[<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/DarshGupta1910/DarshGupta1910/main/logo/html_5.ico" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[<img align="left" alt="Bootstrap" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/Bootstrap.svg" />](https://getbootstrap.com/)
-[<img align="left" alt="CSS" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/CSS.png" />](https://en.wikipedia.org/wiki/CSS)
-[<img align="left" alt="C++" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/C_plus_Plus.png" />](https://en.wikipedia.org/wiki/C%2B%2B)
-[<img align="left" alt="Dart" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/Dart.png" />](https://dart.dev/)
-[<img align="left" alt="JS" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/JS.png" />](https://www.javascript.com/)
-[<img align="left" alt="NodeJS" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/Mode_js.jpg" />](https://nodejs.org/en/)
-[<img align="left" alt="Flutter" width="32px" src="https://github.com/DarshGupta1910/DarshGupta1910/blob/main/logo/flutter.jpg" />](https://flutter.dev/?gclid=CjwKCAjwy42FBhB2EiwAJY0yQsKAjYwyoGC9AjN8ryVKrnXX4qKrEAtCoocfv2GFtgDJKwgbcVfX_xoC9nUQAvD_BwE&gclsrc=aw.ds)
-<br>
-<br>
+<br> 
+<br> 
 
 <div align="left">
 <h1 align="left">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h1>
