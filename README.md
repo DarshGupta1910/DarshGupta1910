@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I'm a tea ☕, chess ♔  and music 🎶 lover 💖<br>
 </h3>
 <br>
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1>Tech-Stacks 👨‍💻</h1>
 <span>
 <span align="centeer">
@@ -37,7 +37,7 @@
 
 <br> 
 <br> 
-
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="left">
 <h1 align="left">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h1>
 <center>
@@ -55,6 +55,7 @@
 </div>    
 <br>
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Github Stats 
 
 ![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true&theme=onedark)
@@ -63,6 +64,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Jokes 😂
 
 <!-- Markdown -->
