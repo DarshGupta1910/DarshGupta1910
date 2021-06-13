@@ -56,23 +56,10 @@
 <br>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# Github Stats 
 
-![Darsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true&theme=onedark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DarshGupta1910&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# Jokes 😂
-
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤-red?style=for-the-badge&logo=github"/>
-</p>
-
+| ![Darsh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910) |
+| --- | --- |
+| ![Darsh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarshGupta1910) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 
 
