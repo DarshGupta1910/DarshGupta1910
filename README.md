@@ -37,7 +37,6 @@
 
 <br> 
 <br> 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="left">
 <h1 align="left">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h1>
 <center>
@@ -54,8 +53,6 @@
 </center>
 </div>    
 <br>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 | ![Darsh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910) |
 | --- | --- |
