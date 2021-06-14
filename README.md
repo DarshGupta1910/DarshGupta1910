@@ -59,5 +59,5 @@
 | ![Darsh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarshGupta1910) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-darshgupta1910.vercel.app/api/spotify)](https://open.spotify.com/user/roih2ybjzlpjqynmpdvd3lo7n)
+[![Spotify](https://darshgupta1910.vercel.app/api/spotify)](https://open.spotify.com/user/darshgupta1910)
 
