@@ -54,6 +54,8 @@
 </div>    
 <br>
 
+<h1>Github Stats</h1>
+
 | ![Darsh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910) |
 | --- | --- |
 | ![Darsh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarshGupta1910) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
