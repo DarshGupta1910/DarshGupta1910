@@ -36,7 +36,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms <br>
 - 👯 I’m looking to collaborate on any Web Dev project😉 <br>
 - 🤔 I'm looking for help with Google Firebase <br>
-- 💬 Ask me about Stock Markets 📈 <br>
+- 💬 Ask me about Web Dev <br>
   - 📫 Reach me on LinkedIn: <a href = "https://www.linkedin.com/in/darsh-gupta-1910/">Darsh Gupta</a><br>
   - 📧 Email me : <a href = "mailto:darsh.gupta2020@vitstudent.ac.in">Here</a> <br>
 - 😄 Pronouns: He/Him <br>
@@ -44,7 +44,7 @@
 </h3>
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h1>Tech-Stacks 👨‍💻</h1>
+<h1 align = "Center">Tech-Stacks 👨‍💻</h1>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Javascript-faff00.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -55,24 +55,14 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23921011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<div align="left">
-<h1 align="left">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h1>
-<center>
+<h1 align="Center">Connect With Me!!!<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/gifs/Handshake.gif" height="33px" /></h1>
+<p align = "center">
 <a href="https://twitter.com/The_Darsh_Gupta"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
-</center> 
-<center>
 <a href="mailto:darsh.gupta2020@vitstudent.ac.in"><img src="https://img.icons8.com/nolan/64/new-post.png"/></a>
-</center>
-<center>
 <a href="https://www.instagram.com/darsh_gupta_1910/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
-</center>
-<center>
 <a href="https://www.linkedin.com/in/darsh-gupta-1910/"><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-</center>
-</div>    
-<br>
-
-<h1>Github Stats🔥🔥</h1> 
+</p>   
+<h1 align="Center">Github Stats🔥🔥</h1> 
 
 | ![Darsh GitHub Statistics](https://github-readme-stats.vercel.app/api?username=DarshGupta1910&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshGupta1910) |
 | --- | --- |
@@ -80,6 +70,8 @@
 
 [![Darsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DarshGupta1910&custom_title=Darsh%20Gupta's%20Contribution%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Spotify Playing 🎧
+<h1 align = 'Center'>Spotify Playing 🎧 </h1>
+    
 <img src = "https://novatorem-darshgupta1910.vercel.app/api/spotify"> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70003&center=true&vCenter=true&lines=Thanks+for+checking+my+profile!%F0%9F%A4%9D;Show+some+%F0%9F%92%96+by+starring+my+repos!)](https://git.io/typing-svg)
