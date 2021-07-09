@@ -75,6 +75,8 @@
     
 <img src = "https://novatorem-darshgupta1910.vercel.app/api/spotify"> 
 
-![snake gif](https://github.com/DarshGupta1910/DarshGupta1910/blob/main/.github/workflows/snake.yml)
+<p align="center">
+  <img src="https://github.com/DarshGupta1910/DarshGupta1910/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70003&center=true&vCenter=true&lines=Thanks+for+checking+my+profile!%F0%9F%A4%9D;Show+some+%F0%9F%92%96+by+starring+my+repos!)](https://git.io/typing-svg)
