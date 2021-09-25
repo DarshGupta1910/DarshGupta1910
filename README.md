@@ -25,7 +25,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-[![MastHead](https://github.com/DarshGupta1910/DarshGupta1910/blob/main/Darsh%20Gupta.jpg)](https://www.linkedin.com/in/darsh-gupta-1910/)
+[![TopBanner](https://github.com/DarshGupta1910/DarshGupta1910/blob/main/Darsh%20Gupta%20(1500%20x%20500%20px).gif)](https://www.linkedin.com/in/darsh-gupta-1910/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarshGupta1910&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
