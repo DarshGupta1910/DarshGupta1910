@@ -25,9 +25,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DarshGupta1910&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
-
 <h1>Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Darsh Gupta. </h1>
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="220" height="220" />
