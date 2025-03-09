@@ -25,7 +25,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-[![TopBanner](https://github.com/DarshGupta1910/DarshGupta1910/blob/main/Darsh%20Gupta%20(1500%20x%20500%20px).gif)](https://www.linkedin.com/in/darsh-gupta-1910/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DarshGupta1910&label=Profile%20Views&color=orange&style=flat-square" alt="DarshGupta1910"></p>
 
@@ -33,14 +32,7 @@
 
 <img align="right" alt="cmulay | Read Book" src="https://github.com/CyberBoyAyush/CyberBoyAyush/blob/master/designs/multi.gif" width="220" height="220" />
 <h3>
-- 🌱 I’m currently learning Data Structures and Algorithms <br>
-- 👯 I’m looking to collaborate on any Web Dev project😉 <br>
-- 🤔 I'm looking for help with Google Firebase <br>
-- 💬 Ask me about Web Dev <br>
-  - 📫 Reach me on LinkedIn: <a href = "https://www.linkedin.com/in/darsh-gupta-1910/">Darsh Gupta</a><br>
-  - 📧 Email me : <a href = "mailto:darsh.gupta2020@vitstudent.ac.in">Here</a> <br>
-- 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: I'm a tea ☕, chess ♔  and music 🎶 lover 💖<br>
+- Software Developer @Firstsource, ex SDE intern @Birla Pivot, BTech VIT, Vellore'24
 </h3>
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
